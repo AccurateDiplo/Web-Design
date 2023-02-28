@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button.btn{
+    background-color: mediumpurple;
+    color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+div#show{
+    width: 400px;
+    height: 250px;
+    background-color: blueviolet;
+    color: white;
+    margin: 10px auto;
+    box-shadow: 6px 6px 12px black;
+    border-radius: 5px;
+
+}
+button.close{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    font-family: serif;
+    font-size: small;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: 4px solid white;
+}
